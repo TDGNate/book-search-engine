@@ -1,6 +1,6 @@
 # Book Search Engine
  
-Will update later
+This is a google books API search engine that uses RESTful API and altered into GraphQL API that uses Apollo server. This is a MERN stack which uses Mongo, Express, React, and Node.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,13 +8,9 @@ Will update later
 
 ## Table Of Contents
 
-- [Usage](#usage)
 - [Install](#install)
 - [Contribute](#contributing)
 - [Questions](#questions)
-    
-## Usage
-na
 
 ## Install
 will update later
