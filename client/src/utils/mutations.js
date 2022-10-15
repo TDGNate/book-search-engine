@@ -42,6 +42,10 @@ mutation removeBook($bookId: ID!) {
     authors
     description
     title
+    authors {
+      _id
+      username
+    }
   }
 }
 `
